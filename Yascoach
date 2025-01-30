@@ -1,0 +1,6 @@
+# Dans ton répertoire de projet
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ton-utilisateur/yascoach-site.git
+git push -u origin master
